@@ -6,8 +6,6 @@
   overflow: hidden;
 }
 
-.trending__discover {
-}
 
 .trending-sushi,
 .trending-drink {
@@ -31,7 +29,7 @@
   list-style: none;
 
   flex-wrap: wrap;
-  gap: 20pxl;
+  gap: 20px;
 }
 
 .trending__list li {
